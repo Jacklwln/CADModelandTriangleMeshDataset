@@ -1,2 +1,2 @@
 # CADModelandTriangleMeshDataset
-CAD models and corresponding tessellated triangle mesh for inspection
+CAD models and the corresponding tessellated triangle mesh for inspection
